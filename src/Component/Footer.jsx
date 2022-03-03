@@ -3,7 +3,7 @@ import logo from '../asets/logo.png';
 
 const Footer = () => {
   return (
-    <div style={{ width: '100vw', height: '20rem', backgroundColor: '#1A374D', marginTop: 'rem', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '15rem' }}>
+    <div style={{ width: '100vw', height: '20rem', backgroundColor: '#1A374D', marginTop: '7rem', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '15rem' }}>
       <div style={{ width: '25rem' }}>
         <img src={logo} alt="" style={{ width: '18rem' }} />
         <p style={{ color: 'white', letterSpacing: '1px', marginTop: '1rem' }}>
